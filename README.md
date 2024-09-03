@@ -1,3 +1,4 @@
+![Descripción de la imagen](https://github.com/FelipeOzaeta07/FelipeOzaeta07/blob/main/Banner%20Felipe%20Ozaeta.png)
 # 💫 About Me:
 ZenithApp es una solución integral para la gestión de inventarios, ventas online y estrategias<br>de marketing dirigidas a pequeñas y medianas empresas, diseñada para optimizar procesos<br> y fomentar el crecimiento empresarial en el entorno digital
 
