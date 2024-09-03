@@ -7,7 +7,7 @@ ZenithApp es una solución integral para la gestión de inventarios, ventas onli
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61565431316628) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/zennithapp-zenith-13a425326) 
 [![Email](https://img.shields.io/badge/Email-white?style=flat&logo=Proton-Mail&logoColor=red&color=white)](https://mail.google.com/mail/u/0/#search/zennithapp%40gmail.com)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:ZennithApp?link=https%3A%2F%2Fx.com%2FZennithApp)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ZennithApp) 
 
 
 # 💻 Tech Stack:
